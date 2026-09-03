@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeaBoy", "SeaBoy.csproj", "{BFFA3E5C-5691-458F-BFB6-F5EF25731320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFFA3E5C-5691-458F-BFB6-F5EF25731320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFA3E5C-5691-458F-BFB6-F5EF25731320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFA3E5C-5691-458F-BFB6-F5EF25731320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFA3E5C-5691-458F-BFB6-F5EF25731320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {807A8966-5E50-46D8-AC4E-38D8ED17807C}
+	EndGlobalSection
+EndGlobal
